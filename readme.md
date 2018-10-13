@@ -49,3 +49,5 @@ Untuk di hosting, lakukan perubahan user permission untuk folder po-upload menja
 8. Easy Menu Manager sebagai pembuat component menu manager
 9. FluentPDO, Bramus, Plates dan semua library php yang dipakai pada PopojiCMS
 10. Jquery, Bootstrap dan semua plugins jquery yang dipakai pada PopojiCMS
+# RUBY
+# RUBY
